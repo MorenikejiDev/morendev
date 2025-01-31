@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    color: gray;
+}
+div{
+    justify-content: center;
+    font-size: 25px;
+    margin-left: 18px;
+    font-family: Arial,;
+    font-weight: bold;
+}
+.nav-item{
+    margin-right: 25px;
+}
+.navbar-brand{
+    font-size: 35px;
+    font-family: Arial,;
+    font-weight: bold;
+    margin-left: 35px;
+
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
+img{
+    border-radius: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+
+
+.btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-family: Arial,;
+    font-weight: bold;
+    text-decoration: none;
+    
+    
+}
+.bnn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: Arial,;
+    font-weight: bold;
+    text-decoration: none;
+    
+    
+}
+.bi{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.span{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: Arial,;
+    font-weight: bold;
+    color: gray;
+    
+}
+.more{
+    margin-left: 3px;
+    font-size: 35px;
+    font-family: Arial,;
+    font-weight: bold;
+    color: black;
+
+    
+}
+
+
+.aaa{
+    margin-left: 20px;
+    font-family: Arial,;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.ccc{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: bold;
+    color: black;
+}
+.ddd{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Arial,;
+    font-weight: bold; 
+    font-size: 18px;
+}
+article{
+    background-color: rgb(223, 226, 228);
+
+}
+.container{
+    display: flex;
+    column-gap: 10px;
+   
+}
+.card{
+    max-width: 300px;
+    background-color:rgb(30, 30, 70);
+    border-radius: 10px;
+    height: 100%;
+    font-size: 18px;
+    
+    
+}
+
+.icon{
+    font-size: 35px;
+}
+.sard{
+    max-width: 300px;
+    background-color:rgb(30, 30, 70);
+    border-radius: 10px;
+    height: 100%;
+    font-size: 18px;
+}
+.pard{
+    max-width: 300px;
+    background-color:rgb(30, 30, 70);
+    border-radius: 10px;
+    height: 100%;
+    font-size: 18px;
+}
+.services{
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: bold;
+    color: black;
+    
+}
+.dre{
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: bold;
+    color: black;
+    margin-left: 20px;
+    font-style: italic;
+    
+}
+
+.fff{
+    font-size: 18px;
+}
+.ffe{
+    font-size: 18px;
+}
+.fdf{
+    font-size: 18px;
+}
+.containerr{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+.containerr .progress-containerr{
+    margin-bottom: 25px;
+}
+.containerr .progress-containerr h4{
+    margin: 0 0 15px 15px;
+    letter-spacing: .5px;
+}
+.containerr .progress-containerr .progress-bar{
+    position: relative;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 3px 4px 5px 0px rgba(204 185 185 / .75);
+}
+.containerr .progress-containerr .progress-bar span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    color: white;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.7;
+    text-align: center;
+    border-radius: 30px;
+    background: linear-gradient(90deg, rgb(37, 37, 37) 50%, rgb(70, 73, 71)100%);
+    transition: width .5s linear;
+}
+.copi{
+    margin-left: 80px;
+    font-size: 18px;
+}
